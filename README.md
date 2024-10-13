@@ -1,27 +1,13 @@
-# Minimal Mistakes remote theme starter
+# About This Website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Welcome to my personal website, a space dedicated to showcasing my work in data visualization and analysis. Here, you'll find interactive dashboards and visualizations developed in **Tableau** and **Power BI**, as well as my reflections on key concepts and trends in data analytics.
 
-Contains basic configuration to get you a site with:
+This site also serves as a platform for a new and ambitious initiative: I will be creating and sharing weekly visualizations as part of the **Makeover Monday** challenge. This global community event inspires data enthusiasts to rethink and improve existing visualizations, helping me sharpen my skills and explore creative approaches to presenting data.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+### What You Will Find Here
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+- **Weekly Tableau Visualizations:** Explore my ongoing series of Tableau visualizations, where I tackle a wide range of datasets and topics.
+- **Project Visualizations:** Access detailed visualizations from my professional and personal projects, presented using **Tableau** and **Power BI**.
+  
+Stay tuned as I continue to expand this site with fresh content and insights every week.
 
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
